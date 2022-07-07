@@ -1,1 +1,1 @@
-# yanki-psikoloji
+# yankipsikoloji
