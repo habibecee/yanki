@@ -9,7 +9,7 @@ BU SİTENİN YAPIMINDA BASİT DÜZEY HTML VE CSS BİLGİSİ KULLANILMIŞTIR. </b
 İLERLEMEYİ GÖREBİLMEK AÇISINDAN YAPILAN DEĞİŞİKLİKLER BURAYA EKLENECEKTİR. </br>
 
 <h3> SİTE GÖRÜNÜMÜ </h3>
-![](yankiweb-screen.gif) 
+![](https://github.com/habibecee/yanki/blob/main/yankiweb-screen.gif) 
 
 
 
