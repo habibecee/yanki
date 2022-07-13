@@ -1,4 +1,4 @@
-<h1 >   YANKI PSİKOLOJİ WEB SİTESİ  </h1>
+<h1 style=”background-color: blueviolet; ” >   YANKI PSİKOLOJİ WEB SİTESİ  </h1>
 
 BU BASİT WEB SİTESİ DİZAYNI YANKI PSİKOLOJİ MERKEZİ İÇİN ÖZEL OLARAK OLUŞTURULMUŞTUR. İLK WEB SİTESİ YAPMA DENEMESİDİR.
 
