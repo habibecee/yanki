@@ -8,8 +8,11 @@ BU SİTENİN YAPIMINDA BASİT DÜZEY HTML VE CSS BİLGİSİ KULLANILMIŞTIR. </b
 İLK SİTE YAPMA DENEMESİDİR. </br>
 İLERLEMEYİ GÖREBİLMEK AÇISINDAN YAPILAN DEĞİŞİKLİKLER BURAYA EKLENECEKTİR. </br>
 
-<h3> SİTE GÖRÜNÜMÜ </h3>
-![](https://github.com/habibecee/yanki/blob/main/yankiweb-screen.gif) 
+<h3> SİTE GÖRÜNÜMÜ </h3> </br>
+![](https://github.com/habibecee/yanki/blob/main/yankiweb-screen.gif)   </br>
+
+![](yankiweb-screen.gif) 
+
 
 
 
